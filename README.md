@@ -1,8 +1,8 @@
-# html2hscript
+*#html2hscript
 
-Parse html to hyperscript library.
+Parse*html to hyperscript library.
 
-[![Build Status](https://travis-ci.org/twilson63/html2hscript.svg?branch=master)](https://travis-ci.org/twilson63/html2hscript)
+[ [Build Status](https://travis-ci.org/twilson63/html2hscript.svg?branch=master)](https://travis-ci.org/twilson63/html2hscript)
 
 ## Usage
 
@@ -41,4 +41,4 @@ MIT
 
 [https://www.npmjs.com/~unframework](https://www.npmjs.com/~unframework) who wrote the parsing code.
 
-[https://www.npmjs.com/~dominictarr](https://www.npmjs.com/~dominictarr) who wrote hyperscript.
+[https://www.npmjs.com/~dominictarr](https://www.npmjs.com/~dominictarr) who wrote hyperscript. 
